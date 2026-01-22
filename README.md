@@ -9,4 +9,7 @@
 `python valorantnew.py`
 **This line will run the valorant agent selector**
 
+### **DEMO FOR TESTING**
+https://python-valagent-selector.streamlit.app/
+*this is a modified version created with streamlit*
 ### Create a github issue if u find an issue
